@@ -1,4 +1,5 @@
 it contains the config file of your yolov3 model and its weights along with coco.name file which has labels
 
-Since the file is too big I wasn't able to upload it but you can download it from my drives' link - 
-This is the link for the model (.cfg) file : https://drive.google.com/open?id=1mT7BvCjVgNmuBaLqLJyCjoZEniw-DCYh
+Since the weights file was too big I wasn't able to upload it to github but you can download it from my drives' link - 
+This is the link for the model (.weight) file : https://drive.google.com/open?id=1mT7BvCjVgNmuBaLqLJyCjoZEniw-DCYh
+You will actually get the entire yolo-coco directory there.
